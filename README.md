@@ -65,6 +65,8 @@ The main logic of the application is in the `Program.cs` file. Below is a detail
 
 Below is an example of the console output when the application is run:
 
+![Result](result.png)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
