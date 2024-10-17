@@ -2,7 +2,7 @@
 
 CallByName is a .NET Framework 4.8 application that demonstrates the use of the OpenNLP library for named entity recognition (NER). This application identifies named entities such as persons and organizations in a given text.
 
-![Labelling](Labelling.jpg)
+![Labelling](labelling.jpg)
 
 ## Features
 
