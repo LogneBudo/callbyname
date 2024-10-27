@@ -36,7 +36,7 @@ CallByName is a .NET Framework 4.8 application that demonstrates the use of the 
 
 3. **Download OpenNLP models:**
 
-    Download the `en-ner-person.bin` and `en-ner-organization.bin` models from the [OpenNLP website](https://opennlp.apache.org/models.html) and place them in the project directory.
+    Download the `en-ner-person.bin` and `en-ner-organization.bin` models from the [OpenNLP website](https://opennlp.sourceforge.net/models-1.5/) and place them in the project directory.
 
 ## Usage
 
